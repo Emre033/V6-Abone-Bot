@@ -36,7 +36,7 @@ $footer[1;$userTag[$clientID] Tüm Hakları Saklıdır]
 })
 
 bot.variables ({
-  abonerol:"" // ABONE OLANLARA VERİLECEK ROL " İCİNE ABONE ROL ID YAZ!
+  abonerol:"",// ABONE OLANLARA VERİLECEK ROL " İCİNE ABONE ROL ID YAZ!
   aboneyetkilisi:"" // ABONE YETKİLİSİ ROLU " İCİNE ROL ID YAZ!
   
 })
