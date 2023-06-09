@@ -6,7 +6,7 @@ const { AoiClient, LoadCommands } = require("aoi.js");
 
 const bot = new AoiClient({
     token: "", // " İCİNE BOT TOKENİNİ YAZ!
-    prefix: "", // İCİNE " PREFİXİNİ YAZ
+    prefix: "", // " İCİNE PREFİXİNİ YAZ
     intents: ["Guilds", "GuildMessages", "MessageContent"],
     events: ["onMessage", "onInteractionCreate"],
     database: {
